@@ -25,6 +25,7 @@ let donar =`
 *┃ 𝙰𝙶𝚁𝙰𝙳𝙴𝙲𝙴𝚁𝚃𝙴 <𝟹*
 *┃ wa.me/5219996125657*
 *┗ ┅ ━━━━━━━━━ ┅ ━*
+*𝙳𝚒𝚜𝚙𝚘𝚗𝚒𝚋𝚕𝚎 𝚑𝚊𝚜𝚝𝚊 𝚎𝚕 06/01/2022*
 `.trim()
 conn.sendHydrated(m.chat, donar, wm, null, 'https://www.paypal.me/TheShadowBrokers133', '𝙿𝙰𝚈𝙿𝙰𝙻', null, null, [['𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '/menu']], m)}
 handler.help = ['donasi']
